@@ -1,7 +1,7 @@
-# RailSafar-Train-Reservation-System
+# Metro-Train-Reservation-System
 
-**About Railsafar:**
-Welcome to Railsafar, your premier Train Reservation System. Effortlessly explore train schedules, check seat availability, and obtain train timings. Inquire about fares, discover routes between stations, and enjoy the convenience of secure online seat reservations. Welcome aboard the future of hassle-free rail travel with Railsafar.
+**About MetroSafar:**
+Welcome to MeetroSafar, your premier Train Reservation System. Effortlessly explore train schedules, check seat availability, and obtain train timings. Inquire about fares, discover routes between stations, and enjoy the convenience of secure online seat reservations. Welcome aboard the future of hassle-free rail travel with Railsafar.
 
 **Key Features:**
 This purpose-built website elevates your train ticket booking experience through the following key features:
